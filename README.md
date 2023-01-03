@@ -18,5 +18,5 @@ CSS
 
 ![HTML](https://iconscout.com/icon/html5-42)
 
-![HTML]([https://iconscout.com/icon/html5-42](https://iconscout.com/icon/css3-8))
+![HTML](https://iconscout.com/icon/css3-8)
 
