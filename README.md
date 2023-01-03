@@ -16,5 +16,7 @@ CSS
 
 ![JavaScript](https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png)
 
+![HTML](https://iconscout.com/icon/html5-42)
 
+![HTML]([https://iconscout.com/icon/html5-42](https://iconscout.com/icon/css3-8))
 
