@@ -13,8 +13,6 @@ CSS
 
 ###Toolkit 🧰
 
-![HTML](https://cdn.iconscout.com/icon/free/png-256/html5-42-1175210.png)![CSS](https://cdn.iconscout.com/icon/free/png-128/css3-2038878-1720091.png)![JavaScript](https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png)
-
-<img src='https://cdn.iconscout.com/icon/free/png-256/html5-42-1175210.png' alt='github' height='100' width='100'> <img src='https://cdn.iconscout.com/icon/free/png-128/css3-2038878-1720091.png' alt='github' height='100' width='100'> <img src='https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png' alt='github' height='100' width='100'>]
+<img src='https://cdn.iconscout.com/icon/free/png-256/html5-42-1175210.png' alt='github' height='100' width='100'> <img src='https://cdn.iconscout.com/icon/free/png-128/css3-2038878-1720091.png' alt='github' height='100' width='100'> <img src='https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png' alt='github' height='100' width='100'>
 
 
