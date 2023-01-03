@@ -14,9 +14,10 @@ CSS
 
 ###Toolkit 🧰
 
+![HTML](https://cdn.iconscout.com/icon/free/png-256/html5-42-1175210.png)
+
+![CSS](https://cdn.iconscout.com/icon/free/png-128/css3-8-1175200.png)
+
 ![JavaScript](https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png)
 
-![HTML](https://iconscout.com/icon/html5-42)
-
-![HTML](https://cdn.iconscout.com/icon/free/png-128/css3-8-1175200.png)
 
